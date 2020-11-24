@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alumnos>	
+  <Alumno id="1" 
+					legajo="1245" 
+					apellido="Zapala" 
+					nombre="Nicolás" 
+					fechaNac="10/02/2001" 
+					domicilio="25 de Mayo 458"/>
+  <Alumno id="2" 
+					legajo="1288" 
+					apellido="Mezzadri" 
+					nombre="Oscar Sebastián" 
+					fechaNac="03/07/2000" 
+					domicilio="Rivadavia 203"/>
+  <Alumno id="3" 
+					legajo="1303" 
+					apellido="Rojas" 
+					nombre="Anabella" 
+					fechaNac="05/11/2000" 
+					domicilio="Berutti 688"/>
+</Alumnos>
+
